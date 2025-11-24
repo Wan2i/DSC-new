@@ -85,10 +85,36 @@
 
   body {
     @apply bg-background text-foreground;
-    background: #0d0d0d
+    background: linear-gradient(to right, #a01b1b, black);
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background:
+      repeating-linear-gradient(90deg,
+        transparent,
+        transparent 48px,
+        rgba(255, 255, 255, 0.02) 48px,
+        rgba(255, 255, 255, 0.02) 52px);
+    pointer-events: none;
+    z-index: 1;
   }
 
   .HEAD {
-    background: linear-gradient(135deg, #c10027 0%, #1a1a1a 50%, #0d0d0d 100%);
+    background: rgba(7, 7, 5, 0.25);
+  }
+
+  .RecordBG {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    padding: 25px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   }
 }

@@ -1,0 +1,38 @@
+/* [next]/internal/font/google/quantico_6ff30779.module.css [app-client] (css) */
+@font-face {
+  font-family: Quantico;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/267e21d860473425-s.p.630aae2d.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Quantico;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/d1c1cf16c8e6bc75-s.p.13122256.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Quantico Fallback;
+  src: local(Arial);
+  ascent-override: 100.19%;
+  descent-override: 34.59%;
+  line-gap-override: 0.0%;
+  size-adjust: 106.1%;
+}
+
+.quantico_6ff30779-module__3eHkQW__className {
+  font-family: Quantico, Quantico Fallback;
+  font-style: normal;
+}
+
+.quantico_6ff30779-module__3eHkQW__variable {
+  --font-quantico: "Quantico", "Quantico Fallback";
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_quantico_6ff30779_module_9f6f0fa8.css.map*/

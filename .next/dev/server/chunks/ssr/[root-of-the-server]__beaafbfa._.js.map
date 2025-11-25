@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/safwa/Documents/Side-Project/DSC%20new/dsc-new/app/page.tsx"],"sourcesContent":["export default function App(){\n\n  return(\n    <>\n    </>\n  )\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IAEtB,qBACE;AAGJ"}}]
+}

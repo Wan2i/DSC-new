@@ -1,7 +1,10 @@
-export default function App(){
+import LandingPage from "./user/landingPage/page"
 
-  return(
+export default function App() {
+
+  return (
     <>
+      <LandingPage/>
     </>
   )
 }

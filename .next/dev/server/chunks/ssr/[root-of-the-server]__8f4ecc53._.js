@@ -105,23 +105,23 @@ const pageNav = [
     },
     {
         label: "About us",
-        href: "/about"
+        href: "/user/about"
     },
     {
         label: "Records",
-        href: "/record"
+        href: "/user/record"
     },
     {
         label: "Karts",
-        href: "/karts"
+        href: "/user/karts"
     },
     {
         label: "Package",
-        href: "/packages"
+        href: "/user/packages"
     },
     {
         label: "Booking",
-        href: "/booking"
+        href: "/user/booking"
     }
 ];
 function PageHeader() {
@@ -181,17 +181,17 @@ function PageHeader() {
                                     children: label
                                 }, void 0, false, {
                                     fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                                    lineNumber: 52,
+                                    lineNumber: 51,
                                     columnNumber: 29
                                 }, this)
                             }, href, false, {
                                 fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                                lineNumber: 45,
+                                lineNumber: 44,
                                 columnNumber: 25
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                        lineNumber: 43,
+                        lineNumber: 42,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Side$2d$Project$2f$DSC__new$2f$dsc$2d$new$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -202,18 +202,18 @@ function PageHeader() {
                             className: "w-6 h-6 text-white"
                         }, void 0, false, {
                             fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                            lineNumber: 64,
+                            lineNumber: 62,
                             columnNumber: 25
                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Side$2d$Project$2f$DSC__new$2f$dsc$2d$new$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Side$2d$Project$2f$DSC__new$2f$dsc$2d$new$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$menu$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Menu$3e$__["Menu"], {
                             className: "w-6 h-6 text-white"
                         }, void 0, false, {
                             fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                            lineNumber: 66,
+                            lineNumber: 64,
                             columnNumber: 25
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                        lineNumber: 58,
+                        lineNumber: 56,
                         columnNumber: 17
                     }, this)
                 ]
@@ -235,17 +235,17 @@ function PageHeader() {
                             children: label
                         }, void 0, false, {
                             fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                            lineNumber: 83,
+                            lineNumber: 81,
                             columnNumber: 29
                         }, this)
                     }, href, false, {
                         fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                        lineNumber: 75,
+                        lineNumber: 73,
                         columnNumber: 25
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/Documents/Side-Project/DSC new/dsc-new/components/ui/header.tsx",
-                lineNumber: 73,
+                lineNumber: 71,
                 columnNumber: 17
             }, this)
         ]

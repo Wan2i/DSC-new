@@ -7,11 +7,11 @@ import { Menu, X } from 'lucide-react'
 
 const pageNav = [
     { label: "Home", href: "/" },
-    { label: "About us", href: "/about" },
-    { label: "Records", href: "/record" },
-    { label: "Karts", href: "/karts" },
-    { label: "Package", href: "/packages" },
-    { label: "Booking", href: "/booking" },
+    { label: "About us", href: "/user/about" },
+    { label: "Records", href: "/user/record" },
+    { label: "Karts", href: "/user/karts" },
+    { label: "Package", href: "/user/packages" },
+    { label: "Booking", href: "/user/booking" },
 ] as const;
 
 export default function PageHeader() {
@@ -39,7 +39,6 @@ export default function PageHeader() {
                     </h1>
                 </div>
 
-                {/* Desktop Navigation */}
                 <nav className="hidden md:flex gap-1 lg:gap-2">
                     {pageNav.map(({ label, href }) => (
                         <Button 
@@ -54,7 +53,6 @@ export default function PageHeader() {
                     ))}
                 </nav>
 
-                {/* Mobile Menu Button */}
                 <button
                     onClick={toggleMenu}
                     className="md:hidden p-2 hover:bg-white/10 rounded-lg transition-colors"

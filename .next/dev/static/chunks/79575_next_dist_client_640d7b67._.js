@@ -3022,7 +3022,7 @@ const _hooksclientcontextsharedruntime = __turbopack_context__.r("[project]/Docu
 const _onrecoverableerror = __turbopack_context__.r("[project]/Documents/Side-Project/DSC new/dsc-new/node_modules/next/dist/client/react-client-callbacks/on-recoverable-error.js [client] (ecmascript)");
 const _tracer = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Documents/Side-Project/DSC new/dsc-new/node_modules/next/dist/client/tracing/tracer.js [client] (ecmascript)"));
 const _isnextroutererror = __turbopack_context__.r("[project]/Documents/Side-Project/DSC new/dsc-new/node_modules/next/dist/client/components/is-next-router-error.js [client] (ecmascript)");
-const version = "16.0.3";
+const version = "16.0.10";
 let router;
 const emitter = (0, _mitt.default)();
 const looseToArray = (input)=>[].slice.call(input);
@@ -3184,7 +3184,10 @@ function AppContainer({ children }) {
                                             ("TURBOPACK compile-time value", 384)
                                         ]),
                                         "qualities": ("TURBOPACK compile-time value", [
-                                            ("TURBOPACK compile-time value", 75)
+                                            ("TURBOPACK compile-time value", 75),
+                                            ("TURBOPACK compile-time value", 70),
+                                            ("TURBOPACK compile-time value", 70),
+                                            ("TURBOPACK compile-time value", 70)
                                         ]),
                                         "path": ("TURBOPACK compile-time value", "/_next/image"),
                                         "loader": ("TURBOPACK compile-time value", "default"),

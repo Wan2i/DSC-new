@@ -1,8 +1,3016 @@
-[00:00:01.132] Server  LOG     
-[00:00:01.132] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
-[00:00:01.133] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+[00:00:02.163] Server  LOG      ✓ Ready in 1667ms
+[00:00:07.051] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:14.841] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:45.215] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:40.144] Server  LOG      ✓ Compiled in 47ms
+[00:02:42.888] Server  LOG      ✓ Compiled in 49ms
+[00:02:54.935] Server  LOG      ✓ Compiled in 56ms
+[00:06:51.844] Server  LOG      ✓ Compiled in 58ms
+[00:06:58.260] Server  LOG      ✓ Compiled in 38ms
+[00:07:01.546] Server  LOG      ✓ Compiled in 39ms
+[00:07:04.312] Server  LOG      ✓ Compiled in 40ms
+[00:07:05.376] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:07:06.003] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:06.268] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[root-of-the-server]__e054687f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:06.272] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:07:06.291] Server  LOG      ✓ Compiled in 42ms
+[00:07:06.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:07.377] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:07:14.445] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:14.642] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[root-of-the-server]__e054687f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:14.642] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:07:14.658] Server  LOG      ✓ Compiled in 47ms
+[00:07:14.774] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:15.390] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:07:18.729] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:18.935] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[root-of-the-server]__e054687f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:18.935] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:07:18.950] Server  LOG      ✓ Compiled in 37ms
+[00:07:19.066] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:19.379] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:07:29.629] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:29.832] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[root-of-the-server]__e054687f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:29.833] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:07:29.851] Server  LOG      ✓ Compiled in 39ms
+[00:07:29.987] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:30.379] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:07:34.097] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:34.287] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[root-of-the-server]__e054687f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:34.287] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:07:34.301] Server  LOG      ✓ Compiled in 37ms
+[00:07:34.422] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:35.380] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:07:54.182] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:54.398] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[root-of-the-server]__e054687f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:54.399] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:07:54.411] Server  LOG      ✓ Compiled in 40ms
+[00:07:54.527] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:55.379] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:07:58.331] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:58.521] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[root-of-the-server]__e054687f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:58.521] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:07:58.534] Server  LOG      ✓ Compiled in 38ms
+[00:07:58.639] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:59.380] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:08:10.776] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:11.044] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:11.215] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:33.080] Server  LOG      ✓ Compiled in 66ms
+[00:08:36.636] Server  LOG      ✓ Compiled in 41ms
+[00:08:42.846] Server  LOG      ✓ Compiled in 51ms
+[00:11:02.367] Server  LOG      ✓ Compiled in 37ms
+[00:11:07.763] Server  LOG      ✓ Compiled in 39ms
+[00:11:10.514] Server  LOG      ✓ Compiled in 37ms
+[00:11:12.519] Server  LOG      ✓ Compiled in 39ms
+[00:11:24.203] Server  LOG      ✓ Compiled in 59ms
+[00:11:25.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:56.791] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:14.769] Server  LOG      ✓ Compiled in 48ms
+[00:19:15.731] Server  LOG      ✓ Compiled in 96ms
+[00:19:57.364] Server  LOG      ✓ Compiled in 53ms
+[00:19:59.732] Server  LOG      ✓ Compiled in 41ms
+[00:20:17.748] Server  LOG      ✓ Compiled in 52ms
+[00:20:18.380] Browser ERROR   ./app/admin/users/page.tsx:7:14
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | type Staff = {
+     |              ^
+   8 |   id: string
+   9 |   name: string
+  10 |   role: "Marshal" | "Moderator" | "Admin"
 
-[00:00:01.133] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
-[00:00:01.133] Server  LOG     
-[00:00:01.337] Server  LOG      ✓ Ready in 961ms
-[00:00:49.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:20:19.017] Server  LOG      ✓ Compiled in 44ms
+[00:20:19.379] Browser ERROR   ./app/admin/users/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import { }
+   6 |
+>  7 | type Staff = {
+     | ^^^^
+   8 |   id: string
+   9 |   name: string
+  10 |   role: "Marshal" | "Moderator" | "Admin"
+
+Expected 'from', got 'type'
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:20:23.381] Browser ERROR   ./app/admin/users/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import { }
+   6 |
+>  7 | type Staff = {
+     | ^^^^
+   8 |   id: string
+   9 |   name: string
+  10 |   role: "Marshal" | "Moderator" | "Admin"
+
+Expected 'from', got 'type'
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:20:56.496] Server  LOG      ✓ Compiled in 40ms
+[00:20:57.380] Browser ERROR   ./app/admin/users/page.tsx:5:17
+Parsing ecmascript source code failed
+  3 | import { useState } from "react"
+  4 | import { Plus, Pencil, Trash2, X } from "lucide-react"
+> 5 | import { } from ./
+    |                 ^
+  6 |
+  7 | type Staff = {
+  8 |   id: string
+
+Unexpected token `.`. Expected a string literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:20:59.379] Server  LOG      ✓ Compiled in 36ms
+[00:21:00.389] Browser ERROR   ./app/admin/users/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import { } from 
+   6 |
+>  7 | type Staff = {
+     | ^^^^
+   8 |   id: string
+   9 |   name: string
+  10 |   role: "Marshal" | "Moderator" | "Admin"
+
+Unexpected token `type`. Expected a string literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:21:03.385] Browser ERROR   ./app/admin/users/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import { user} from 
+   6 |
+>  7 | type Staff = {
+     | ^^^^
+   8 |   id: string
+   9 |   name: string
+  10 |   role: "Marshal" | "Moderator" | "Admin"
+
+Unexpected token `type`. Expected a string literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:21:28.100] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\_25ef51e5._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:21:28.103] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:21:28.163] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:21:28.168] Server  ERROR    ⨯ ReferenceError: da is not defined
+[00:21:28.195] Server  LOG      ✓ Compiled in 49ms
+[00:21:28.330] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:29.383] Browser ERROR   uncaughtError: ReferenceError: da is not defined
+[00:21:32.445] Server  LOG      ✓ Compiled in 37ms
+[00:21:33.382] Browser ERROR   ./app/admin/users/page.tsx:8:14
+Parsing ecmascript source code failed
+   6 | import 
+   7 |
+>  8 | type Staff = {
+     |              ^
+   9 |   id: string
+  10 |   name: string
+  11 |   role: "Marshal" | "Moderator" | "Admin"
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:21:36.484] Server  LOG      ✓ Compiled in 36ms
+[00:21:37.381] Browser ERROR   ./app/admin/users/page.tsx:8:1
+Parsing ecmascript source code failed
+   6 | import { Dat}
+   7 |
+>  8 | type Staff = {
+     | ^^^^
+   9 |   id: string
+  10 |   name: string
+  11 |   role: "Marshal" | "Moderator" | "Admin"
+
+Expected 'from', got 'type'
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:21:38.143] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:21:38.143] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./app/admin/users/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:21:38.144] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:21:38.524] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:48.533] Server  LOG      ✓ Compiled in 43ms
+[00:22:05.583] Server  LOG      ✓ Compiled in 54ms
+[00:22:09.013] Server  LOG      ✓ Compiled in 37ms
+[00:22:10.499] Server  LOG      ✓ Compiled in 37ms
+[00:22:20.265] Server  LOG      ✓ Compiled in 50ms
+[00:22:20.384] Browser ERROR   uncaughtError: ReferenceError: DataTAble is not defined
+[00:22:22.568] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:22.777] Server  LOG      ✓ Compiled in 39ms
+[00:22:22.906] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:30.067] Server  LOG      ✓ Compiled in 128ms
+[00:22:30.383] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:22:32.781] Server  LOG      ✓ Compiled in 38ms
+[00:22:33.386] Browser ERROR   ./app/admin/users/page.tsx:219:1
+Parsing ecmascript source code failed
+  217 |     </div>
+  218 |   )
+> 219 | }
+      | ^
+  220 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:22:35.138] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:35.436] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\node_modules_6cdf637c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:22:35.437] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\_b34bf2d9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:22:35.438] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:22:35.466] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:22:35.609] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:36.385] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:22:37.835] Server  LOG      ✓ Compiled in 37ms
+[00:22:38.383] Browser ERROR   ./app/admin/users/page.tsx:217:5
+Parsing ecmascript source code failed
+  215 |         </div>
+  216 |       )}
+> 217 |     </div>
+      |     ^
+  218 |   )
+  219 | }
+  220 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:22:38.383] Browser ERROR   ./app/admin/users/page.tsx:217:6
+Parsing ecmascript source code failed
+  215 |         </div>
+  216 |       )}
+> 217 |     </div>
+      |      ^^^^^
+  218 |   )
+  219 | }
+  220 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:22:42.244] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:42.484] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\_b34bf2d9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:22:42.485] Server  ERROR    ⨯ ReferenceError: user is not defined
+[00:22:42.624] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:43.269] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:43.269] Browser ERROR   uncaughtError: ReferenceError: user is not defined
+[00:22:43.506] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\node_modules_6cdf637c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:22:43.507] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\_53606950._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:22:43.507] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'length')
+[00:22:43.524] Server  LOG      ✓ Compiled in 44ms
+[00:22:43.651] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:44.384] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'length')
+[00:22:49.819] Server  LOG      ✓ Compiled in 44ms
+[00:22:50.385] Browser ERROR   ./app/admin/users/page.tsx:217:5
+Parsing ecmascript source code failed
+  215 |         </div>
+  216 |       )}
+> 217 |     </div>
+      |     ^
+  218 |   )
+  219 | }
+  220 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:22:50.385] Browser ERROR   ./app/admin/users/page.tsx:217:6
+Parsing ecmascript source code failed
+  215 |         </div>
+  216 |       )}
+> 217 |     </div>
+      |      ^^^^^
+  218 |   )
+  219 | }
+  220 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:22:56.984] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:57.374] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:28.836] Server  LOG      ✓ Compiled in 49ms
+[00:23:29.088] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. email
+[00:23:29.088] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 0_email
+[00:23:29.088] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 1_email
+[00:23:29.088] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2_email
+[00:23:37.511] Server  LOG      ✓ Compiled in 36ms
+[00:23:43.719] Server  LOG      ✓ Compiled in 49ms
+[00:23:55.384] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\_53606950._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:23:55.385] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:23:55.390] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:23:55.391] Server  ERROR    ⨯ ReferenceError: cell is not defined
+[00:23:55.411] Server  LOG      ✓ Compiled in 40ms
+[00:23:55.537] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:56.386] Browser ERROR   uncaughtError: ReferenceError: cell is not defined
+[00:23:57.754] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:57.754] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./app/admin/users/Columns.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:57.755] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:58.005] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:23:58.006] Server  ERROR    ⨯ Error: Objects are not valid as a React child (found: object with keys {}). If you meant to render a collection of children, use an array instead.
+[00:23:58.020] Server  LOG      ✓ Compiled in 45ms
+[00:23:58.128] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:58.386] Browser ERROR   uncaughtError: Error: Objects are not valid as a React child (found: object with keys {}). If you meant to render a collection of children, use an array instead.
+[00:24:04.219] Server  LOG      ✓ Compiled in 52ms
+[00:24:04.376] Browser ERROR   ./app/admin/users/Columns.tsx:38:5
+Parsing ecmascript source code failed
+  36 |         header: "Action",
+  37 |         cell: 
+> 38 |     },
+     |     ^
+  39 | ]
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:24:09.126] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:09.170] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:24:09.170] Server  ERROR    ⨯ Error: Objects are not valid as a React child (found: object with keys {}). If you meant to render a collection of children, use an array instead.
+[00:24:09.297] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:10.387] Browser ERROR   uncaughtError: Error: Objects are not valid as a React child (found: object with keys {}). If you meant to render a collection of children, use an array instead.
+[00:24:10.549] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:10.549] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:10.777] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\_53606950._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:24:10.778] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:24:10.780] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:24:10.780] Server  ERROR    ⨯ ReferenceError: row is not defined
+[00:24:10.797] Server  LOG      ✓ Compiled in 35ms
+[00:24:10.915] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:11.387] Browser ERROR   uncaughtError: ReferenceError: row is not defined
+[00:24:13.183] Server  LOG      ✓ Compiled in 41ms
+[00:24:13.377] Browser ERROR   ./app/admin/users/Columns.tsx:38:5
+Parsing ecmascript source code failed
+  36 |         header: "Action",
+  37 |         cell: ({row}) => 
+> 38 |     },
+     |     ^
+  39 | ]
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:24:23.698] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:23.699] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./app/admin/users/Columns.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:23.700] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:24.155] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:33.991] Server  LOG      ✓ Compiled in 43ms
+[00:24:34.388] Browser ERROR   uncaughtError: ReferenceError: div is not defined
+[00:24:35.738] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:35.980] Server  LOG      ✓ Compiled in 41ms
+[00:24:36.089] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:48.752] Server  LOG      ✓ Compiled in 37ms
+[00:24:51.057] Server  LOG      ✓ Compiled in 39ms
+[00:25:02.184] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\_53606950._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:25:02.186] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:25:02.190] Server  ERROR   C:\Users\safwa\Documents\Side-Project\DSC-new\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:25:02.191] Server  ERROR    ⨯ ReferenceError: Pencil is not defined
+[00:25:02.208] Server  LOG      ✓ Compiled in 39ms
+[00:25:02.317] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:03.375] Browser ERROR   uncaughtError: ReferenceError: Pencil is not defined
+[00:25:05.107] Server  LOG      ✓ Compiled in 41ms
+[00:25:05.384] Browser ERROR   ./app/admin/users/Columns.tsx:5:1
+Parsing ecmascript source code failed
+  3 | import { ColumnDef } from "@tanstack/react-table"
+  4 | import {}
+> 5 | export type Users = {
+    | ^^^^^^
+  6 |     id: string
+  7 |     name: string
+  8 |     role: "Marshal" | "Moderator" | "Admin"
+
+Expected 'from', got 'export'
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:07.388] Browser ERROR   ./app/admin/users/Columns.tsx:5:1
+Parsing ecmascript source code failed
+  3 | import { ColumnDef } from "@tanstack/react-table"
+  4 | import { }
+> 5 | export type Users = {
+    | ^^^^^^
+  6 |     id: string
+  7 |     name: string
+  8 |     role: "Marshal" | "Moderator" | "Admin"
+
+Expected 'from', got 'export'
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:08.379] Browser ERROR   ./app/admin/users/Columns.tsx:5:1
+Parsing ecmascript source code failed
+  3 | import { ColumnDef } from "@tanstack/react-table"
+  4 | import { Pencil, Trash2}
+> 5 | export type Users = {
+    | ^^^^^^
+  6 |     id: string
+  7 |     name: string
+  8 |     role: "Marshal" | "Moderator" | "Admin"
+
+Expected 'from', got 'export'
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:10.388] Browser ERROR   ./app/admin/users/Columns.tsx:5:1
+Parsing ecmascript source code failed
+  3 | import { ColumnDef } from "@tanstack/react-table"
+  4 | import { Pencil, Trash2  }
+> 5 | export type Users = {
+    | ^^^^^^
+  6 |     id: string
+  7 |     name: string
+  8 |     role: "Marshal" | "Moderator" | "Admin"
+
+Expected 'from', got 'export'
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:14.386] Browser ERROR   ./app/admin/users/Columns.tsx:5:1
+Parsing ecmascript source code failed
+  3 | import { ColumnDef } from "@tanstack/react-table"
+  4 | import { Pencil, Trash2 }
+> 5 | export type Users = {
+    | ^^^^^^
+  6 |     id: string
+  7 |     name: string
+  8 |     role: "Marshal" | "Moderator" | "Admin"
+
+Expected 'from', got 'export'
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:16.454] Server  LOG      ✓ Compiled in 36ms
+[00:25:17.385] Browser ERROR   ./app/admin/users/Columns.tsx:5:1
+Parsing ecmascript source code failed
+  3 | import { ColumnDef } from "@tanstack/react-table"
+  4 | import { Pencil, Trash2 } from
+> 5 | export type Users = {
+    | ^^^^^^
+  6 |     id: string
+  7 |     name: string
+  8 |     role: "Marshal" | "Moderator" | "Admin"
+
+Unexpected token `export`. Expected a string literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:18.178] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:18.178] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./app/admin/users/Columns.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:18.178] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:18.545] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:22.696] Server  LOG      ✓ Compiled in 33ms
+[00:25:30.639] Server  LOG      ✓ Compiled in 37ms
+[00:25:35.272] Server  LOG      ✓ Compiled in 37ms
+[00:25:37.307] Server  LOG      ✓ Compiled in 36ms
+[00:25:45.140] Server  LOG      ✓ Compiled in 34ms
+[00:25:48.615] Server  LOG      ✓ Compiled in 45ms
+[00:25:53.106] Server  LOG      ✓ Compiled in 35ms
+[00:25:53.376] Browser ERROR   ./app/admin/users/Columns.tsx:43:5
+Parsing ecmascript source code failed
+  41 |             </div>
+  42 |         }
+> 43 |     },
+     |     ^
+  44 | ]
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:54.388] Browser ERROR   ./app/admin/users/Columns.tsx:43:5
+Parsing ecmascript source code failed
+  41 |             </div>
+  42 |         }
+> 43 |     },
+     |     ^
+  44 | ]
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:56.387] Browser ERROR   ./app/admin/users/Columns.tsx:43:5
+Parsing ecmascript source code failed
+  41 |             </div>
+  42 |         }
+> 43 |     },
+     |     ^
+  44 | ]
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:57.635] Server  LOG      ✓ Compiled in 37ms
+[00:25:58.375] Browser ERROR   ./app/admin/users/Columns.tsx:41:13
+Parsing ecmascript source code failed
+  39 |             <div className="flex justify-between">
+  40 |                 <Pencil/
+> 41 |             </div>
+     |             ^
+  42 |         }
+  43 |     },
+  44 | ]
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:25:58.375] Browser ERROR   ./app/admin/users/Columns.tsx:41:14
+Parsing ecmascript source code failed
+  39 |             <div className="flex justify-between">
+  40 |                 <Pencil/
+> 41 |             </div>
+     |              ^^^^^
+  42 |         }
+  43 |     },
+  44 | ]
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:26:01.790] Server  LOG      ✓ Compiled in 36ms
+[00:26:02.388] Browser ERROR   ./app/admin/users/Columns.tsx:42:13
+Parsing ecmascript source code failed
+  40 |                 <Pencil/>
+  41 |                 <
+> 42 |             </div>
+     |             ^
+  43 |         }
+  44 |     },
+  45 | ]
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:26:02.388] Browser ERROR   ./app/admin/users/Columns.tsx:42:14
+Parsing ecmascript source code failed
+  40 |                 <Pencil/>
+  41 |                 <
+> 42 |             </div>
+     |              ^^^^^
+  43 |         }
+  44 |     },
+  45 | ]
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:26:04.387] Browser ERROR   ./app/admin/users/Columns.tsx:42:13
+Parsing ecmascript source code failed
+  40 |                 <Pencil/>
+  41 |                 <Trash2
+> 42 |             </div>
+     |             ^
+  43 |         }
+  44 |     },
+  45 | ]
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:26:04.387] Browser ERROR   ./app/admin/users/Columns.tsx:42:14
+Parsing ecmascript source code failed
+  40 |                 <Pencil/>
+  41 |                 <Trash2
+> 42 |             </div>
+     |              ^^^^^
+  43 |         }
+  44 |     },
+  45 | ]
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Columns.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Columns.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+[00:28:08.823] Server  LOG      ✓ Compiled in 60ms
+[00:28:20.972] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:20.975] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:20.979] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:20.982] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:20.985] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:20.988] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:20.990] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:20.996] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.001] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.003] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.006] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.008] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.013] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.016] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.018] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.020] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.022] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.024] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.026] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.029] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.031] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.032] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.034] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.036] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.038] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.040] Server  ERROR    ⨯ ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.042] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.046] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.049] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.051] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.055] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.057] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.059] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.063] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.066] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.068] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.071] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.072] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.077] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.080] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.082] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.084] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.087] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.089] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.090] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.092] Server  ERROR    ⨯ ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.096] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.097] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.100] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.102] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.104] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.106] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.107] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.109] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.112] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.114] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.116] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.117] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.118] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.120] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.122] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.123] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.129] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.131] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.133] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.135] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.138] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.141] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.144] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.145] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.148] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.149] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.149] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.151] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.152] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.153] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.154] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.155] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.156] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.158] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.160] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.161] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.162] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.163] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.164] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.166] Server  ERROR    ⨯ ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:28:21.168] Server  LOG      ✓ Compiled in 308ms
+[00:28:21.376] Browser ERROR   ./tsconfig.json:9:16
+An issue occurred while parsing a tsconfig.json file.
+   7 |       "esnext"
+   8 |     ],
+>  9 |     "allowJs": fa
+     |                ^^
+  10 |     "skipLibCheck": true,
+  11 |     "strict": true,
+  12 |     "noEmit": true,
+
+tsconfig is not parseable: invalid JSON: Unexpected word
+[00:28:21.376] Browser ERROR   ./app/user/landingPage/page.tsx:5:1
+Module not found: Can't resolve '@/components/ui/button'
+  3 | import Image from "next/image"
+  4 | import Link from "next/link"
+> 5 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { Card } from "@/components/ui/card"
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:28:21.376] Browser ERROR   ./app/user/landingPage/page.tsx:6:1
+Module not found: Can't resolve '@/components/ui/card'
+  4 | import Link from "next/link"
+  5 | import { Button } from "@/components/ui/button"
+> 6 | import { Card } from "@/components/ui/card"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import { ChevronRight, Timer, Trophy, Zap } from "lucide-react"
+  8 |
+  9 | export default function LandingPage() {
+
+Import trace:
+  Server Component:
+    ./app/user/landingPage/page.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:28:21.376] Browser ERROR   ./app/admin/layout.tsx:9:1
+Module not found: Can't resolve '@/lib/navigation/navigation'
+   7 | import { usePathname } from "next/navigation"
+   8 | import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
+>  9 | import { useNavigation } from "@/lib/navigation/navigation"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | const navItems = [
+  12 |   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/layout.tsx [Client Component Browser]
+    ./app/admin/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/layout.tsx [Client Component SSR]
+    ./app/admin/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:28:21.376] Browser ERROR   ./app/admin/users/Data-table.tsx:10:1
+Module not found: Can't resolve '@/components/ui/table'
+   8 | } from "@tanstack/react-table"
+   9 |
+> 10 | import {
+     | ^^^^^^^^
+> 11 |     Table,
+     | ^^^^^^^^^^
+> 12 |     TableBody,
+     | ^^^^^^^^^^
+> 13 |     TableCell,
+     | ^^^^^^^^^^
+> 14 |     TableHead,
+     | ^^^^^^^^^^
+> 15 |     TableHeader,
+     | ^^^^^^^^^^
+> 16 |     TableRow,
+     | ^^^^^^^^^^
+> 17 | } from "@/components/ui/table"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | interface DataTableProps<TData, TValue> {
+  20 |     columns: ColumnDef<TData, TValue>[]
+
+Import traces:
+  Client Component Browser:
+    ./app/admin/users/Data-table.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Client Component Browser]
+    ./app/admin/users/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/admin/users/Data-table.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Client Component SSR]
+    ./app/admin/users/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:28:23.359] Server  LOG      ✓ Compiled in 298ms
+[00:28:23.806] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:02.561] Server  LOG      ✓ Compiled in 46ms

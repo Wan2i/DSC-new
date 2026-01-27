@@ -9,6 +9,7 @@ import { Label } from "@/components/ui/label"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Checkbox } from "@/components/ui/checkbox"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { useNavigation } from "@/lib/navigation/navigation"
 
 const TIME_SLOTS = [
   "4:30pm",
@@ -37,7 +38,7 @@ const PACKAGES = [
 export function BookingForm() {
   const [phone, setPhone] = useState("+60 ")
   const [agreed, setAgreed] = useState(false)
-  const { useNavigation, routes } = "@/lib/navigation/navigation"
+  const { routes, navigateTo} = useNavigation()
 
   const handlePhoneChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = e.target.value
@@ -69,7 +70,7 @@ export function BookingForm() {
     const formData = new FormData(e.currentTarget)
     const data = Object.fromEntries(formData)
     alert("Booking submitted! Check console for details.")
-    useNavigation(routes.admin.dashboard)
+    navigateTo(routes.admin.dashboard)
   }
 
   return (

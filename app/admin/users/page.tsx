@@ -2,6 +2,8 @@
 
 import { useState } from "react"
 import { Plus, Pencil, Trash2, X } from "lucide-react"
+import { usersColumn, Users } from "./Columns" 
+import { DataTable } from "./Data-table"
 
 type Staff = {
   id: string
@@ -15,6 +17,8 @@ type Staff = {
 export default function StaffManagementPage() {
   const [showForm, setShowForm] = useState(false)
   const [editingStaff, setEditingStaff] = useState<Staff | null>(null)
+
+
   const [staff, setStaff] = useState<Staff[]>([
     { id: "STF001", name: "Ahmad Razak", role: "Marshal", phone: "+60 12-345 6789", email: "ahmad@dsc.com" },
     { id: "STF002", name: "Sarah Lee", role: "Moderator", phone: "+60 12-345 6790", email: "sarah@dsc.com" },
@@ -42,7 +46,7 @@ export default function StaffManagementPage() {
       {/* Page Header */}
       <div className="flex items-center justify-between">
         <div>
-          <h2 className="text-3xl font-bold text-foreground">Staff Management</h2>
+          <h2 className="text-3xl font-bold text-foreground">Users Management</h2>
           <p className="text-muted-foreground">Manage team members and roles</p>
         </div>
         <button
@@ -55,7 +59,9 @@ export default function StaffManagementPage() {
       </div>
 
       {/* Staff Table */}
-      <div className="bg-card border border-border rounded-lg overflow-hidden">
+      <DataTable columns={usersColumn} data={staff}/>
+
+      {/* <div className="bg-card border border-border rounded-lg overflow-hidden">
         <div className="overflow-x-auto">
           <table className="w-full">
             <thead className="bg-secondary">
@@ -109,7 +115,7 @@ export default function StaffManagementPage() {
             </tbody>
           </table>
         </div>
-      </div>
+      </div> */}
 
       {/* Add/Edit Staff Modal */}
       {showForm && (

@@ -3,13 +3,14 @@
 import type React from "react"
 
 import Link from "next/link"
+import Image from "next/image"
 import { usePathname } from "next/navigation"
 import { LayoutDashboard, Users, UserCircle, Car, Bell, Settings, LogOut } from "lucide-react"
 import { useNavigation } from "@/lib/navigation/navigation"
 
 const navItems = [
   { href: "/admin", icon: LayoutDashboard, label: "Dashboard" },
-  { href: "/admin/staff", icon: Users, label: "Staff" },
+  { href: "/admin/users", icon: Users, label: "Users Management" },
   { href: "/admin/drivers", icon: UserCircle, label: "Drivers" },
   { href: "/admin/karts", icon: Car, label: "Karts" },
 ]
@@ -25,12 +26,10 @@ export default function AdminLayout({
   return (
     <div className="flex h-screen bg-background">
       {/* Sidebar */}
-      <aside className="w-20 bg-[#5A7863] flex flex-col items-center py-6">
+      <aside className="w-20 bg-primary flex flex-col items-center py-6">
         {/* Logo */}
         <div className="mb-8">
-          <div className="w-12 h-12 bg-primary rounded-lg flex items-center justify-center">
-            <Car className="w-6 h-6 text-primary-foreground" />
-          </div>
+          <Image src="/DSCLogo.png" alt="DSC Logo" width={70} height={70} />
         </div>
 
         {/* Navigation */}

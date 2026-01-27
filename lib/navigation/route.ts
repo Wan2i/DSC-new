@@ -1,3 +1,5 @@
+import { Users } from "lucide-react"
+
 export const routes = {
     home: "/",
     user: {
@@ -8,7 +10,7 @@ export const routes = {
         dashboard: "/admin",
         drivers: "/admin/drivers",
         karts: "/admin/karts",
-        staff: "/admin/staff",
+        users: "/admin/users",
     }, 
     login: "/login",
 } as const
